@@ -1,0 +1,30 @@
+Ahmed Omar,202573410,SWE,IAS111,Belief and its Consequences,2,B;ICS104,Introduction to Programming in Python & C,3,D
+Hassan Rashid,202290840,MATH,IAS111,Belief and its Consequences,2,D
+Saeed Abdulrahman,202216490,ME,PHYS101,General Physics I,4,F;CHEM101,General Chemistry I,4,D;PE101,Health/Fitness/Basketball,1,B+;ICS104,Introduction to Programming in Python & C,3,C+
+Hassan Sulaiman,202227870,ACCT,CHEM101,General Chemistry I,4,B
+Osama Abdulrahman,202394080,CHE,CHEM101,General Chemistry I,4,D;PHYS101,General Physics I,4,A+
+Osama Sulaiman,202437030,MIS,PHYS101,General Physics I,4,A+;ICS104,Introduction to Programming in Python & C,3,B;ICS104,Introduction to Programming in Python & C,3,F;IAS111,Belief and its Consequences,2,A+
+Hassan Abdulaziz,202351890,MIS,ICS104,Introduction to Programming in Python & C,3,B
+Ahmed Badr,202361260,ME,ICS104,Introduction to Programming in Python & C,3,A;CHEM101,General Chemistry I,4,B
+Saleh Abdulaziz,202580170,ME,IAS111,Belief and its Consequences,2,C+;CHEM101,General Chemistry I,4,C;MATH101,Calculus I,4,A+;PE101,Health/Fitness/Basketball,1,A
+Mohammed Rashid,202522320,SWE,MATH101,Calculus I,4,D;CHEM101,General Chemistry I,4,D+;ICS104,Introduction to Programming in Python & C,3,C+
+Mohammed Abdulaziz,202269560,CS,CHEM101,General Chemistry I,4,B+
+Khaled Abdullah,202253180,SWE,MATH101,Calculus I,4,D;IAS111,Belief and its Consequences,2,B+;ENGL101,Introduction to Academic Discourse,3,F
+Majed Sulaiman,202428540,CHE,MATH101,Calculus I,4,B+;CHEM101,General Chemistry I,4,C;ICS104,Introduction to Programming in Python & C,3,A+
+Hassan Badr,202299490,ACCT,PE101,Health/Fitness/Basketball,1,C;CHEM101,General Chemistry I,4,F;MATH101,Calculus I,4,B
+Osama Rashid,202276220,SWE,CHEM101,General Chemistry I,4,A+
+Ahmed Badr,202597370,ACCT,CHEM101,General Chemistry I,4,B+;ENGL101,Introduction to Academic Discourse,3,F
+Hassan Badr,202296220,CS,MATH101,Calculus I,4,B+;PE101,Health/Fitness/Basketball,1,C+;PE101,Health/Fitness/Basketball,1,F
+Mohammed Abdulaziz,202495460,CHE,MATH101,Calculus I,4,D;PHYS101,General Physics I,4,A+;PE101,Health/Fitness/Basketball,1,F;PE101,Health/Fitness/Basketball,1,D+
+Osama Abdulrahman,202277360,MGT,PE101,Health/Fitness/Basketball,1,F;ENGL101,Introduction to Academic Discourse,3,D+;IAS111,Belief and its Consequences,2,C;ICS104,Introduction to Programming in Python & C,3,C
+Ahmed Omar,202280030,SWE,PHYS101,General Physics I,4,A;IAS111,Belief and its Consequences,2,B+;IAS111,Belief and its Consequences,2,D+
+Majed Abdulaziz,202368010,CS,ICS104,Introduction to Programming in Python & C,3,B+;ENGL101,Introduction to Academic Discourse,3,F;PE101,Health/Fitness/Basketball,1,C+
+Saleh Abdulrahman,202586190,ACCT,ENGL101,Introduction to Academic Discourse,3,B+;ICS104,Introduction to Programming in Python & C,3,A+;PE101,Health/Fitness/Basketball,1,B+;ICS104,Introduction to Programming in Python & C,3,C
+Hassan Abdulrahman,202558210,CS,ENGL101,Introduction to Academic Discourse,3,A+
+Ali Abdulrahman,202445210,ACCT,PE101,Health/Fitness/Basketball,1,C;PHYS101,General Physics I,4,B;PHYS101,General Physics I,4,B+;MATH101,Calculus I,4,B+
+Saeed Abdullah,202239190,EE,ENGL101,Introduction to Academic Discourse,3,D
+Ahmed Sulaiman,202566480,MIS,ICS104,Introduction to Programming in Python & C,3,A+;CHEM101,General Chemistry I,4,F;PHYS101,General Physics I,4,C+;PE101,Health/Fitness/Basketball,1,C
+Hassan Omar,202285860,SWE,PE101,Health/Fitness/Basketball,1,F;CHEM101,General Chemistry I,4,F
+Mohammed Rashid,202277160,COE,PE101,Health/Fitness/Basketball,1,A;CHEM101,General Chemistry I,4,A;MATH101,Calculus I,4,F
+Hassan Abdullah,202324620,CHE,IAS111,Belief and its Consequences,2,D+;PE101,Health/Fitness/Basketball,1,A;MATH101,Calculus I,4,D
+Khaled Rashid,202445820,ME,PHYS101,General Physics I,4,C+;MATH101,Calculus I,4,D;ICS104,Introduction to Programming in Python & C,3,C;CHEM101,General Chemistry I,4,B+
